@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/pharmakinetics/static/css/main.ff0bfd86.css",
-    "main.js": "/pharmakinetics/static/js/main.0e3cf944.js",
+    "main.css": "/pharmakinetics/static/css/main.0975824f.css",
+    "main.js": "/pharmakinetics/static/js/main.ba256a63.js",
     "static/js/787.c4e7f8f9.chunk.js": "/pharmakinetics/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Untitled-1 copy.jpg": "/pharmakinetics/static/media/Untitled-1 copy.6b2033a64efc431d74cf.jpg",
+    "static/media/USYD_LOGO_WHITE.png": "/pharmakinetics/static/media/USYD_LOGO_WHITE.2c9e9441b20a549a6c15.png",
     "index.html": "/pharmakinetics/index.html",
-    "main.ff0bfd86.css.map": "/pharmakinetics/static/css/main.ff0bfd86.css.map",
-    "main.0e3cf944.js.map": "/pharmakinetics/static/js/main.0e3cf944.js.map",
+    "main.0975824f.css.map": "/pharmakinetics/static/css/main.0975824f.css.map",
+    "main.ba256a63.js.map": "/pharmakinetics/static/js/main.ba256a63.js.map",
     "787.c4e7f8f9.chunk.js.map": "/pharmakinetics/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff0bfd86.css",
-    "static/js/main.0e3cf944.js"
+    "static/css/main.0975824f.css",
+    "static/js/main.ba256a63.js"
   ]
 }
